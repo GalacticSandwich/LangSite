@@ -1,2 +1,2 @@
 # LangSite
-A template for building a simple website showcasing a Constructed Language
+A template for building a simple website for showcasing Constructed Languages
